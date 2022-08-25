@@ -1,0 +1,1 @@
+# mmdeploy-ci-resource
